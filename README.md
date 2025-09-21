@@ -45,3 +45,6 @@ http://ec2-54-226-234-62.compute-1.amazonaws.com
 
 From <https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1> <img width="733" height="1004" alt="image" src="https://github.com/user-attachments/assets/74f64f38-530d-4bff-98d2-f3aac7bbaeac" />
 <img width="525" height="543" alt="image" src="https://github.com/user-attachments/assets/e8cf2d66-7482-4484-9059-3cadfc1c0eeb" />
+Go instances
+select instant state dropdown
+Terminate/Delete selected instance
