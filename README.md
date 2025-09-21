@@ -49,3 +49,18 @@ From <https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1> <img w
 Go instances
 select instant state dropdown
 Terminate/Delete selected instance
+
+Be a man challenge
+http://ec2-54-226-72-42.compute-1.amazonaws.com/
+
+I, Treigh, Thank Theo And Andre, For Teaching Me About Ec2s In Aws. One Step Closer To Escaping Keisha! With This Class, I Will Net 300k+ Per Year!
+
+<img width="1882" height="847" alt="image" src="https://github.com/user-attachments/assets/77bf803b-0f74-409b-8633-c24c3c421963" />
+
+Instance Name: ip-172-31-21-23.ec2.internal
+
+Instance Private Ip Address: 172.31.21.23
+
+Availability Zone: us-east-1b
+
+Virtual Private Cloud (VPC): vpc-04e6871caadbfd747
